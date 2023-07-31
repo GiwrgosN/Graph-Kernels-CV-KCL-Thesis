@@ -4,10 +4,10 @@ An unsupervised approach to image segmentation in computer vision using graph ke
 
 This repository includes a collection of Python code used for the completion of a Master's thesis at King's College London for the MSc Data Science program during the academic year 2022-2023. The files included are:
 
-- **Canny - Hyperparameter Tuning.ipynb:** Script for hyperparameter tuning of Canny Edge Detector Algorithm.
+- **Canny - Hyperparameter Tuning.ipynb:** Script for hyperparameter tuning of Canny Edge Detector algorithm.
 - **Main-Results on Validation Set.ipynb:** Script that includes the comparison of different graph kernels as well as the comparison of the suggested approach with 
 other commonly used apporaches.
-- **Ncuts - Hyperparameter Tuning.ipynb:** Script for hyperparameter tuning of Ncuts Algorithm.
+- **Ncuts - Hyperparameter Tuning.ipynb:** Script for hyperparameter tuning of Ncuts algorithm.
 - **Propagation Kernel - Hyperparameter Tuning.ipynb:** Script for hyperparameter Tuning of Propagation kernel.
 - **WL - Hyperparameter Tuning.ipynb:** Script for hyperparameter tuning of Weisfeiler-Lehman kernel.
 
