@@ -8,7 +8,7 @@ This repository includes a collection of Python code used for the completion of 
 - **Main-Results on Validation Set.ipynb:** Script that includes the comparison of different graph kernels as well as the comparison of the suggested approach with 
 other commonly used apporaches.
 - **Ncuts - Hyperparameter Tuning.ipynb:** Script for hyperparameter tuning of Ncuts algorithm.
-- **Propagation Kernel - Hyperparameter Tuning.ipynb:** Script for hyperparameter Tuning of Propagation kernel.
+- **Propagation Kernel - Hyperparameter Tuning.ipynb:** Script for hyperparameter tuning of Propagation kernel.
 - **WL - Hyperparameter Tuning.ipynb:** Script for hyperparameter tuning of Weisfeiler-Lehman kernel.
 
 The data used in the current thesis are taken from the Berkeley 500 image segmentation dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html
