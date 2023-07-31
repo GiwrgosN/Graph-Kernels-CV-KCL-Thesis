@@ -12,3 +12,5 @@ other commonly used apporaches.
 - **WL - Hyperparameter Tuning.ipynb:** Script for Hyper-Parameter Tuning of Weisfeiler-Lehman kernel.
 
 The data used in the current thesis are taken from the Berkeley 500 image segmentation dataset: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html
+
+In order to replicate the results, the file **requirement.txt** can be used in order to create a Python environment. 
